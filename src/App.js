@@ -22,13 +22,14 @@ const App = () => {
               </h1>
               <span className="text-white italic font-semibold">
                 Get top posts from the best developer platforms.
+                Select any plarform to see top posts.
               </span>
             </div>
 
             <Sidebar />
 
             <div className="mt-12 bg-gray-900 shadow text-white p-2 mx-auto w-36 rounded">
-              <a href="https://github.com/rutikwankhade/devspace" target="_blank" rel="noreferrer" className="flex">
+              <a href="https://github.com/fu4303/devspace" target="_blank" rel="noreferrer" className="flex">
                 <span className="text-sm font-semibold">
                   ⭐ Star on Github
                 </span>
