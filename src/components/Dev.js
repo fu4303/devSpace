@@ -41,7 +41,7 @@ const Dev = () => {
                         < ThreeDots fill="#6366F1" />
                     </div>
                     :
-                    <div className="flex flex-row flex-wrap justify-center p-2">
+                    <div className="flex w-50 flex-row flex-wrap justify-center p-2">
 
                         {devPosts.map(post => {
                             return (
