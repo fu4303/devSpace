@@ -22,7 +22,7 @@ const App = () => {
               </h1>
               <span className="text-white italic font-semibold">
                 Get top posts from the best developer platforms.<br>
-                Select any plarform to see top posts.
+                Select any plarform to see top posts.</br>
               </span>
             </div>
 
