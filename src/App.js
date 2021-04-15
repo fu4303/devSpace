@@ -20,10 +20,10 @@ const App = () => {
               <h1 className="text-8xl font-bold text-indigo-900">
                 devSpace
               </h1>
-              <h3 className="text-2xl text-indigo-200 mt-4">
+              <h3 className="text-2xl text-indigo-100 mt-4">
                 Welcome to devSpace
               </h3>
-              <span className="text-indigo-200 italic font-semibold">
+              <span className="text-indigo-100 italic font-semibold">
                 Select any developer platform to see top posts.
               </span>
             </div>
@@ -32,7 +32,7 @@ const App = () => {
 
             <div className="mt-12 bg-gray-900 shadow text-indigo-100 p-2 mx-auto w-36 rounded">
               <a href="https://github.com/fu4303/devspace" target="_blank" rel="noreferrer" className="flex">
-                <span className="text-sm font-semibold">
+                <span className="text-sm font-semibold text-indigo-200">
                   ⭐ Star on Github
                 </span>
               </a>
