@@ -18,9 +18,10 @@ const App = () => {
           <div className=" bg-gradient-to-r from-indigo-400 to-indigo-600 md:w-1/2 md:h-screen h-full py-16">
             <div className="m-8">
               <h1 className="text-6xl font-bold text-white">
-                DevSpace
+                devSpace
               </h1>
               <span className="text-white italic font-semibold">
+                Welcome to devSpace.
                 Get top posts from the best developer platforms.
                 Select any plarform to see top posts.
               </span>
