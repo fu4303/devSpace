@@ -30,7 +30,7 @@ const Sidebar = () => {
             </Link>
 
             <Link to="/hackernews">
-                <div className="shadow-md h-28  transform hover:scale-105 duration-100 p-4 m-2 flex flex-col bg-indigo-100 rounded-lg  text-center">
+                <div className="shadow-md h-28  transform hover:scale-105 duration-100 p-4 m-2 flex flex-col bg-gradient-to-r from-indigo-400 to-indigo-300 rounded-lg  text-center">
                     <img src={hackernewsIcon} alt="logo"
                         className="h-12 w-12 mx-auto"
                     />
@@ -39,7 +39,7 @@ const Sidebar = () => {
             </Link>
 
             <Link to="/producthunt">
-                <div className="shadow-md h-28  transform hover:scale-105 duration-100 p-4 m-2 flex flex-col bg-indigo-100 rounded-lg  text-center">
+                <div className="shadow-md h-28  transform hover:scale-105 duration-100 p-4 m-2 flex flex-col bg-gradient-to-r from-indigo-400 to-indigo-300 rounded-lg  text-center">
                     <img src={producthuntIcon} alt="logo"
                         className="h-12 w-12 mx-auto "
                     />
@@ -48,7 +48,7 @@ const Sidebar = () => {
             </Link>
 
             <Link to="/github">
-                <div className="shadow-md h-28 w-32 transform hover:scale-105 duration-100 p-4 m-2 flex flex-col bg-indigo-100 rounded-lg  text-center">
+                <div className="shadow-md h-28 w-32 transform hover:scale-105 duration-100 p-4 m-2 flex flex-col bg-gradient-to-r from-indigo-400 to-indigo-300 rounded-lg  text-center">
                     <img src={githubIcon} alt="logo"
                         className="h-12 w-12 mx-auto "
                     />
