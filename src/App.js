@@ -15,7 +15,7 @@ const App = () => {
       <BrowserRouter>
         <div className="flex md:flex-row flex-col">
 
-          <div className=" bg-gradient-to-r from-indigo-400 to-indigo-600 md:w-1/2 md:h-screen h-full py-2">
+          <div className=" bg-gradient-to-r from-indigo-300 to-indigo-500 md:w-1/2 md:h-screen h-full py-2">
             <div className="m-4">
               <h1 className="text-8xl font-bold text-indigo-900">
                 devSpace
