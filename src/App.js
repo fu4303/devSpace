@@ -40,7 +40,7 @@ const App = () => {
 
           </div>
 
-          <div className="md:w-1/2 bg-gray-100  overflow-y-scroll max-h-screen">
+          <div className="md:w-1/2 bg-indigo-100  overflow-y-scroll max-h-screen">
             <Route exact path="/" component={Hashnode} />
             <Route exact path="/dev" component={Dev} />
             <Route exact path="/hackernews" component={Hackernews} />
