@@ -24,8 +24,7 @@ const App = () => {
                 Welcome to devSpace
               </h3>
               <span className="text-indigo-100 italic font-semibold">
-                Get top posts from the best developer platforms.
-                Select any plarform to see top posts.
+                Select any developer platform to see top posts.
               </span>
             </div>
 
