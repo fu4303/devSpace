@@ -20,7 +20,7 @@ const App = () => {
               <h1 className="text-8xl font-bold text-white">
                 devSpace
               </h1>
-              <h3 className="text-2xl text-white mt-8">
+              <h3 className="text-2xl text-white mt-4">
                 Welcome to devSpace
               </h3>
               <span className="text-white italic font-semibold">
