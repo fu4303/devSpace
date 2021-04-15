@@ -15,10 +15,10 @@ const App = () => {
       <BrowserRouter>
         <div className="flex md:flex-row flex-col">
 
-          <div className=" bg-indigo-500 md:w-1/2 md:h-screen h-full py-20">
+          <div className=" bg-gradient-to-r from-green-400 to-blue-500 md:w-1/2 md:h-screen h-full py-20">
             <div className="m-8">
-              <h1 className="text-4xl font-bold text-white">
-                Devspace
+              <h1 className="text-6xl font-bold text-white">
+                DevSpace
               </h1>
               <span className="text-white italic font-semibold">
                 Get top posts from the best developer platforms.
