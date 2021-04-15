@@ -11,7 +11,7 @@ Get top posts form the best developer platforms.
 
 </p>
 
-![frame_chrome_mac_light (7)](https://user-images.githubusercontent.com/47467468/107149320-f78d6780-697d-11eb-9f2a-6c3fbe6850f9.png)
+![devSpace](/public/devspace.png)
 
 
 ## 👩‍💻 Developing
@@ -30,7 +30,7 @@ npm start
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
-1. Fork it (<https://github.com/rutikwankhade/devspace/fork>)
+1. Fork it (<https://github.com/fu4303/devspace/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
