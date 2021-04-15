@@ -30,7 +30,7 @@ const App = () => {
 
             <Sidebar />
 
-            <div className="mt-12 bg-gray-900 shadow text-white p-2 mx-auto w-36 rounded">
+            <div className="mt-12 bg-gray-900 shadow text-indigo-100 p-2 mx-auto w-36 rounded">
               <a href="https://github.com/fu4303/devspace" target="_blank" rel="noreferrer" className="flex">
                 <span className="text-sm font-semibold">
                   ⭐ Star on Github
