@@ -10,7 +10,7 @@ const Header = ({ icon, title, borderColor }) => {
                     {title}
                 </h1>
             </div>
-            <span className="mr-2 ml-auto  text-md py-1 bg-gray-700 text-white rounded px-2  ">
+            <span className="mr-2 ml-auto  text-md py-1 bg-gray-700 text-indigo-200 rounded px-2  ">
                 🏆 Featured Today
             </span>
         </div>
