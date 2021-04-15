@@ -16,11 +16,11 @@ const App = () => {
         <div className="flex md:flex-row flex-col">
 
           <div className=" bg-gradient-to-r from-indigo-400 to-indigo-600 md:w-1/2 md:h-screen h-full py-6">
-            <div className="m-8">
+            <div className="m-6">
               <h1 className="text-8xl font-bold text-white">
                 devSpace
               </h1>
-              <h3 className="text-2xl text-white m-10">
+              <h3 className="text-2xl text-white mt-8">
                 Welcome to devSpace.
               </h3>
               <span className="text-white italic font-semibold">
