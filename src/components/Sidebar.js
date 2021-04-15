@@ -12,7 +12,7 @@ const Sidebar = () => {
     return (
         <div className="flex flex-row flex-wrap md:px-20 justify-center">
             <Link to="/">
-                <div className="shadow-md h-28 w-32 transform hover:scale-105 duration-100 p-4 m-2 flex flex-col bg-indigo-100 rounded-lg  text-center">
+                <div className="shadow-md h-28 w-32 transform hover:scale-105 duration-100 p-4 m-2 flex flex-col bg-gradient-to-r from-indigo-500 to-indigo-300 rounded-lg  text-center">
                     <img src={hashnodeIcon} alt="logo"
                         className="h-12 w-12 mx-auto"
                     />
