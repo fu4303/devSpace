@@ -17,13 +17,13 @@ const App = () => {
 
           <div className=" bg-gradient-to-r from-indigo-400 to-indigo-600 md:w-1/2 md:h-screen h-full py-2">
             <div className="m-4">
-              <h1 className="text-8xl font-bold text-white">
+              <h1 className="text-8xl font-bold text-indigo-200">
                 devSpace
               </h1>
-              <h3 className="text-2xl text-white mt-4">
+              <h3 className="text-2xl text-indigo-100 mt-4">
                 Welcome to devSpace
               </h3>
-              <span className="text-white italic font-semibold">
+              <span className="text-indigo-100 italic font-semibold">
                 Get top posts from the best developer platforms.
                 Select any plarform to see top posts.
               </span>
