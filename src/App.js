@@ -20,10 +20,10 @@ const App = () => {
               <h1 className="text-8xl font-bold text-indigo-900">
                 devSpace
               </h1>
-              <h3 className="text-2xl text-indigo-300 mt-4">
+              <h3 className="text-2xl text-indigo-200 mt-4">
                 Welcome to devSpace
               </h3>
-              <span className="text-indigo-300 italic font-semibold">
+              <span className="text-indigo-200 italic font-semibold">
                 Select any developer platform to see top posts.
               </span>
             </div>
