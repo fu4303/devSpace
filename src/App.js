@@ -20,8 +20,10 @@ const App = () => {
               <h1 className="text-6xl font-bold text-white">
                 devSpace
               </h1>
-              <span className="text-white italic font-semibold">
+              <h3 className="text-2xl">
                 Welcome to devSpace.
+              </h3>
+              <span className="text-white italic font-semibold">
                 Get top posts from the best developer platforms.
                 Select any plarform to see top posts.
               </span>
